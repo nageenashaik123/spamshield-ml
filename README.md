@@ -8,13 +8,7 @@ Open the deployed app here:
 
 https://spamshield-ml-m4cmb6mfuzvnsiohwcmrml.streamlit.app/
 
-## Demo Screenshots
 
-![SpamShield ML dashboard preview](screenshots/email_length_distribution.png)
-
-![SpamShield ML email classification preview](screenshots/class_distribution.png)
-
-![SpamShield ML data visualization preview](screenshots/email_length_boxplot.png)
 
 ## Overview
 
