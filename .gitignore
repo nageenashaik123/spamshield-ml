@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Project artifacts
+*.log
+*.sqlite3
+
+# Model cache/test artifacts
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Optional local data
+*.zip
+*.tar.gz
