@@ -109,7 +109,7 @@ This project is for educational and demonstration purposes.
 
 ## Author
 
-SpamShield ML
+Shaik Nageena
 
 ## Contact
 
