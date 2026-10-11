@@ -2,6 +2,12 @@
 
 SpamShield ML is a lightweight spam email detection app built with Python, Streamlit, scikit-learn, and TF-IDF text features. It analyzes incoming email text and predicts whether the message is likely spam or legitimate.
 
+## Live Demo
+
+Open the deployed app here:
+
+https://spamshield-ml-m4cmb6mfuzvnsiohwcmrml.streamlit.app/
+
 ## Overview
 
 This project combines:
@@ -64,8 +70,8 @@ SpamShield-ML/
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/SpamShield-ML.git
-cd SpamShield-ML
+git clone https://github.com/nageenashaik123/spamshield-ml.git
+cd spamshield-ml
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
